@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 53.93 53.93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: AdobeGothicStd-Bold-KSCpc-EUC-H, 'Adobe Gothic Std';
+        font-size: 29.29px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #3bc3ff;
+      }
+    </style>
+  </defs>
+  <g id="ps">
+    <rect class="cls-2" x="1.56" y="1.56" width="50.8" height="50.8" rx="10.37" ry="10.37" transform="translate(2.05 -1.91) rotate(4.21)"/>
+    <text class="cls-1" transform="translate(11.66 34.61) rotate(4.21)"><tspan x="0" y="0">Ps</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.14 100.97">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-4, .cls-5 {
+        fill: #3bc3ff;
+      }
+
+      .cls-1, .cls-5 {
+        font-family: NanumGothicExtraBold, NanumGothic;
+        font-size: 31.35px;
+      }
+
+      .cls-2 {
+        font-family: Pretendard-Bold-KSCpc-EUC-H, Pretendard;
+        font-size: 17.78px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-5 {
+        letter-spacing: -.05em;
+      }
+    </style>
+  </defs>
+  <g id="css">
+    <g>
+      <path class="cls-3" d="M86.54,35.52l-11.15,53.83c-1.56,7.54-8.94,12.38-16.48,10.82l-47.3-9.79c-7.54-1.56-12.38-8.94-10.82-16.48L13.69,11.62C15.25,4.08,22.63-.77,30.17,.79l35.95,7.45"/>
+      <path class="cls-3" d="M2.74,64.49L13.69,11.62C15.25,4.08,22.63-.77,30.17,.79l35.95,7.45"/>
+      <path class="cls-4" d="M2.74,64.49l-1.95,9.42c-1.56,7.54,3.28,14.92,10.82,16.48l47.3,9.79c7.54,1.56,14.92-3.28,16.48-10.82l1.95-9.42L2.74,64.49Z"/>
+      <path class="cls-4" d="M66.02,8.31l-1.69,8.47c-1.5,7.55,3.4,14.89,10.95,16.4l11.36,2.26-20.62-27.13Z"/>
+      <text class="cls-2" transform="translate(19.03 86.66) rotate(11.7)"><tspan x="0" y="0">CSS</tspan></text>
+      <text class="cls-1" transform="translate(24.19 49.87) rotate(11.7)"><tspan x="0" y="0">{</tspan></text>
+      <text class="cls-5" transform="translate(63.44 58.05) rotate(-168.3) scale(1 -1)"><tspan x="0" y="0">{</tspan></text>
+    </g>
+  </g>
+</svg>

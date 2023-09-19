@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60.56 60.56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: #3bc3ff;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: AdobeGothicStd-Bold-KSCpc-EUC-H, 'Adobe Gothic Std';
+        font-size: 32.3px;
+      }
+    </style>
+  </defs>
+  <g id="Pr">
+    <g>
+      <g>
+        <rect class="cls-3" x="2.2" y="2.2" width="56.17" height="56.17" rx="10.37" ry="10.37" transform="translate(-2.9 3.21) rotate(-5.79)"/>
+        <rect class="cls-1" x="2.2" y="2.2" width="56.17" height="56.17" rx="10.37" ry="10.37" transform="translate(-2.9 3.21) rotate(-5.79)"/>
+      </g>
+      <text class="cls-2" transform="translate(15.46 41.45) rotate(-5.79)"><tspan x="0" y="0">Pr</tspan></text>
+    </g>
+  </g>
+</svg>

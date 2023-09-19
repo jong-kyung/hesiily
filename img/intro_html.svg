@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 111.9 120.89">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-6 {
+        stroke-width: .5px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-5, .cls-6 {
+        fill: #3bc3ff;
+      }
+
+      .cls-4 {
+        font-family: Pretendard-Bold-KSCpc-EUC-H, Pretendard;
+        font-size: 21.62px;
+      }
+
+      .cls-5 {
+        font-family: NanumGothicBold, NanumGothic;
+        font-size: 30.82px;
+        letter-spacing: -.05em;
+      }
+    </style>
+  </defs>
+  <g id="html">
+    <g>
+      <path class="cls-3" d="M93.22,18.8l17.58,64.48c2.46,9.03-2.86,18.35-11.89,20.81l-56.65,15.45c-9.03,2.46-18.35-2.86-20.81-11.89L1.1,33.03C-1.36,24,3.96,14.69,12.99,12.22L56.06,.48"/>
+      <path class="cls-1" d="M18.37,96.36L1.1,33.03C-1.36,24,3.96,14.69,12.99,12.22L56.06,.48"/>
+      <path class="cls-6" d="M18.37,96.36l3.08,11.28c2.46,9.03,11.78,14.36,20.81,11.89l56.65-15.45c9.03-2.46,14.36-11.78,11.89-20.81l-3.08-11.28L18.37,96.36Z"/>
+      <path class="cls-2" d="M93.29,18.66l-13.56,3.81c-9.01,2.53-18.37-2.72-20.9-11.74L55.99,.62l37.3,18.04Z"/>
+      <text class="cls-4" transform="translate(39.84 113.82) rotate(-15.25)"><tspan x="0" y="0">HTML</tspan></text>
+      <text class="cls-5" transform="translate(29.3 67.97) rotate(-15.72)"><tspan x="0" y="0">&lt; / &gt;</tspan></text>
+    </g>
+  </g>
+</svg>

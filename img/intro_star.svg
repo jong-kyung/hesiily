@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20.42 20.42">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="star">
+    <path class="cls-1" d="M9.96,19.92c-.45-5.89-3.6-9.21-9.46-9.97,6.1-.22,9.42-3.38,9.97-9.46-.56,6.85,2.59,10.17,9.46,9.97-6.31,0-9.64,3.15-9.97,9.46Z"/>
+  </g>
+</svg>
